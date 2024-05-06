@@ -1,7 +1,7 @@
 # A new method for the reproducible development of aptamers (Neomers) - Structural Diversity 
 ---
 ## Overview
-This repository contains a python script and necessary data needed to generate the structural diversity data from the Nature Biotechnology submission titled, "A new method for the reproducible development of aptamers (Neomers)".
+This repository contains a python script and necessary data needed to generate the structural diversity data from the PLos One submission titled, "A new method for the reproducible development of aptamers (Neomers)".
 
 For further information on the Neomer method and result visualizations, please refer to our preprint: [here](https://biorxiv.org/cgi/content/short/2023.12.19.572437v1).
 
